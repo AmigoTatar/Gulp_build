@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    .toto{
+        color:red;
+        display: flex;
+    }
+}
+@media (max-width: 768px){
+    body{
+        background-color: darkcyan;
+    }
+}
+@media(max-width:768px){
+    body{
+        display: flex;
+
+    }
+}
